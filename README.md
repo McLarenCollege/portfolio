@@ -9,7 +9,7 @@ A simple game to demonstrate
 Code developed by a few students is available here:
   - [Kapil J. - Tic Tac Toe](https://github.com/Flutter-Kapil/tic_tac_toe_refactoring_starter)
   - [Sahil S. - Tic Tac Toe](https://github.com/fuser312/tic_tac_toe_refactoring_starter)
-  - [Sahil S. - Tic Tac Toe](https://github.com/mvresh/tic_tac_toe_refactoring_starter)
+  - [Varun R. - Tic Tac Toe](https://github.com/mvresh/tic_tac_toe_refactoring_starter)
   
 ![](images/TicTacToe.png)
 
