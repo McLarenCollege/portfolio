@@ -11,7 +11,7 @@ Code developed by a few students is available here:
   - [Sahil S. - Tic Tac Toe](https://github.com/fuser312/tic_tac_toe_refactoring_starter)
   - [Varun R. - Tic Tac Toe](https://github.com/mvresh/tic_tac_toe_refactoring_starter)
   
-![](images/TicTacToe.png)
+![](images/TicTacToe.png) ![](images/tic-tac-winning.png)
 
 ## McLaren Times
 A clone of the New York Times app for reading news.  Demonstrates:
