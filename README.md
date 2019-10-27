@@ -1,6 +1,6 @@
 # Team McLaren Portfolio
 
-### Tic Tac Toe
+## Tic Tac Toe
 A simple game to demonstrate
   - flutter layout 
   - animation
@@ -13,7 +13,7 @@ Code developed by a few students is available here:
   
 ![](images/TicTacToe.png)
 
-### McLaren Times
+## McLaren Times
 A clone of the New York Times app for reading news.  Demonstrates:
   - fetching and parsing JSON data from remote server 
   - hero animation
@@ -27,13 +27,13 @@ Code developed by a few students is available here:
 ![](images/mclaren-times-main.png) ![](images/mclaren-times-detail.png)
 
 
-### Flutter Fox
+## Flutter Fox
 A MacOS Flutter App written by Mark McLaren to interface with 
 the [Whiteboard Fox web app](https://whiteboardfox.com) (which was also written by Mark).
 
 MacOS users can run the app by clicking 
 'Launch Whiteboard Fox' on [this page](https://feather-apps.com).
 
-#### [Click here to view the video](https://youtu.be/dWvd_t74IFQ) 
+### [Click here to view the video](https://youtu.be/dWvd_t74IFQ) 
 
 ![](images/fox-screenshot.jpg)
